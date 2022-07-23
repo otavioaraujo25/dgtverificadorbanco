@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\bin\Debug\App Banco 12-04-2021.exe.config
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\bin\Debug\App Banco 12-04-2021.exe
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\bin\Debug\App Banco 12-04-2021.pdb
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\obj\Debug\App Banco 12-04-2021.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\obj\Debug\App Banco 12-04-2021.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\obj\Debug\App Banco 12-04-2021.exe
+C:\Users\Otavio\Desktop\Para o GitHub\Banco\App Banco 12-04-2021\App Banco 12-04-2021\obj\Debug\App Banco 12-04-2021.pdb
